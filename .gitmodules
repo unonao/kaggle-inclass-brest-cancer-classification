@@ -1,0 +1,3 @@
+[submodule "input/kaggle-toolkit"]
+	path = input/kaggle-toolkit
+	url = https://github.com/unonao/kaggle-toolkit.git
